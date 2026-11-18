@@ -16,7 +16,7 @@
 <p>Tên khách hàng.</p>
 </li>
 <li>
-<p>gi Tên sản phẩm.</p>
+<p> Tên sản phẩm.</p>
 </li>
 <li>
 <p>Số lượng sản phẩm.</p>
